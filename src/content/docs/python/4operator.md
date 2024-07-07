@@ -1,5 +1,5 @@
 ---
-title: Data Types
+title: Operator
 description: The python docs will coming soon.
 ---
 
