@@ -11,6 +11,7 @@ This is a comprehensive documentation website aimed at providing beginner-friend
   - [Introduction](#introduction)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
+  - [Project Structure](#project-structure)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributing](#contributing)
@@ -40,6 +41,21 @@ This project is a collaborative effort by _Abhijit Pradhan_ and _Saswati Choudhu
 - **Markdown** (.md and .mdx)
 - **Tailwind CSS**
 
+## Project Structure
+```
+📦src
+ ┣ 📂assets
+ ┃ ┗ 📜houston.webp
+ ┣ 📂content
+ ┃ ┣ 📂docs
+ ┃ ┃ ┣ 📂javascript
+ ┃ ┃ ┃ ┣ ....
+ ┃ ┃ ┣ 📂python
+ ┃ ┃ ┃ ┣ ...
+ ┃ ┃ ┗ 📜index.mdx
+ ┃ ┗ 📜config.ts
+ ┗ 📜env.d.ts
+```
 ## Installation
 
 To run this project locally, follow these steps:
