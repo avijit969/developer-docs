@@ -85,13 +85,13 @@ Dictionaries are collections of key-value pairs. Keys must be unique and immutab
 
 ```python
 person = {
-    "name": "Alice",
-    "age": 30,
-    "city": "New York"
+    "name": "Disha",
+    "age": 20,
+    "city": "Rayagada"
 }
 
-name = person["name"]  # "Alice"
-person["age"] = 31
+name = person["name"]  # "Disha"
+person["age"] = 21 # change the value of age
 ```
 
 ## Sets
