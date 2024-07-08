@@ -18,6 +18,12 @@ export default defineConfig({
         label: 'Introduction',
         slug: 'javascript/introduction'
       }, {
+        label: 'Overview',
+        slug: 'javascript/overview'
+      }, {
+        label: 'Running and Loading',
+        slug: 'javascript/running_and_loading'
+      }, {
         label: 'Basic',
         slug: 'javascript/basic'
       }, {
